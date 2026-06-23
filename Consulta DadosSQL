@@ -1,0 +1,12 @@
+
+
+
+
+A proposta dessa segunda etapa foi tratar dados, fazer consultas junto de Joins  wherem group by e orderBy para responder as seugintes perguntas
+
+Qual o Top 5 produtos que mais geraram faturamento?
+Qual o Top 5 clientes que mais gastaram na loja?
+Qual o faturamento médio por cliente que é assinante do "ZOOP Prime" em comparação com os não assinantes?
+
+
+Vou deixar um script com o nome consulta dados, e tambem os arquivos base, vendas.csv  e clientes.csv
